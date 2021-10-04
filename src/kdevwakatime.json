@@ -1,0 +1,9 @@
+{
+    "KPlugin": {
+        "Description": "kdevwakatime",
+        "Id": "kdevwakatime",
+        "Name": "kdevwakatime"
+    },
+    "X-KDevelop-Category": "Global",
+    "X-KDevelop-Mode": "GUI"
+}
