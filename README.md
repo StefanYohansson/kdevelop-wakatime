@@ -23,10 +23,10 @@ If you are unsure, check in the installation log the path to which the plugin is
 
 
 Example:
-When CMAKE_INSTALL_PREFIX is set to "/home/userX/projects/mykdevplugin/" and
+When CMAKE_INSTALL_PREFIX is set to "/home/userX/projects/kdevwakatime/" and
 this is a Debian 64-bit system, open a console and enter:
 
-    export QT_PLUGIN_PATH=$QT_PLUGIN_PATH:/home/userX/projects/mykdevplugin/lib/x86_64-linux-gnu/plugins 
+    export QT_PLUGIN_PATH=$QT_PLUGIN_PATH:/home/userX/projects/kdevwakatime/lib/x86_64-linux-gnu/plugins 
 
 Then start KDevelop from that console:
 
