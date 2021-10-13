@@ -1,7 +1,38 @@
 {
-    "KPlugin": {
+	"KPlugin": {
+		"Authors": [
+			{
+				"Name": "Stefan Yohansson",
+				"Name[ca@valencia]": "Stefan Yohansson",
+				"Name[ca]": "Stefan Yohansson",
+				"Name[cs]": "Stefan Yohansson",
+				"Name[de]": "Stefan Yohansson",
+				"Name[en_GB]": "Stefan Yohansson",
+				"Name[es]": "Stefan Yohansson",
+				"Name[et]": "Stefan Yohansson",
+				"Name[eu]": "Stefan Yohansson",
+				"Name[fr]": "Stefan Yohansson",
+				"Name[gl]": "Stefan Yohansson",
+				"Name[it]": "Stefan Yohansson",
+				"Name[ko]": "Stefan Yohansson",
+				"Name[nl]": "Stefan Yohansson",
+				"Name[nn]": "Stefan Yohansson",
+				"Name[pl]": "Stefan Yohansson",
+				"Name[pt]": "Stefan Yohansson",
+				"Name[pt_BR]": "Stefan Yohansson",
+				"Name[ru]": "Stefan Yohansson",
+				"Name[sk]": "Stefan Yohansson",
+				"Name[sl]": "Stefan Yohansson",
+				"Name[sv]": "Stefan Yohansson",
+				"Name[tr]": "Stefan Yohansson",
+				"Name[uk]": "Stefan Yohansson",
+				"Name[x-test]": "xxStefan Yohanssonxx",
+				"Name[zh_CN]": "Stefan Yohansson"
+			}
+		],
         "Description": "The developer dashboard. Automatic time tracking and metrics for programmers.",
         "Id": "kdevwakatime",
+        "License": "GPL",
         "Name": "WakaTime",
         "ServiceTypes": [
             "KDevelop/Plugin"
