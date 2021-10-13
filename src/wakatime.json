@@ -1,9 +1,13 @@
 {
     "KPlugin": {
-        "Description": "kdevwakatime",
+        "Description": "The developer dashboard. Automatic time tracking and metrics for programmers.",
         "Id": "kdevwakatime",
-        "Name": "kdevwakatime"
+        "Name": "WakaTime",
+        "ServiceTypes": [
+            "KDevelop/Plugin"
+        ]
     },
     "X-KDevelop-Category": "Global",
-    "X-KDevelop-Mode": "GUI"
+    "X-KDevelop-Mode": "GUI",
+    "X-KDE-ServiceType": "KDevelop/Plugin"
 }
